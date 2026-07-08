@@ -18,6 +18,13 @@ Each study guide is maintained as a separate repository so the notes stay organi
 2. Continue with [Google Cybersecurity Professional Certificate](https://github.com/wilsonvs/Google-Cybersecurity) for practical SOC, tools, Linux, SQL, Python, and detection concepts.
 3. Use [CompTIA Security+ SY0-701](https://github.com/wilsonvs/CompTIA-Security-SY0-701) for broader exam preparation and deeper security coverage.
 
+## Supporting Guides
+
+| Guide | Purpose |
+| --- | --- |
+| [Cybersecurity Study Roadmap](docs/study-roadmap.md) | Suggested order for moving through ISC2 CC, Google Cybersecurity, and CompTIA Security+ notes |
+| [Repository Quality Checklist](docs/repository-quality-checklist.md) | Checklist for keeping study repositories clean, consistent, and discoverable |
+
 ## What These Notes Are Designed For
 
 - Cybersecurity beginners building a structured foundation
