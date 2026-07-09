@@ -24,6 +24,20 @@ Each study guide is maintained as a separate repository so the notes stay organi
 | --- | --- |
 | [Cybersecurity Study Roadmap](docs/study-roadmap.md) | Suggested order for moving through ISC2 CC, Google Cybersecurity, and CompTIA Security+ notes |
 | [Repository Quality Checklist](docs/repository-quality-checklist.md) | Checklist for keeping study repositories clean, consistent, and discoverable |
+| [Cybersecurity Glossary](docs/glossary.md) | Quick definitions for common security terms |
+| [Common Ports Quick Reference](docs/common-ports.md) | Frequently used ports for beginner network security review |
+| [Incident Response Cheat Sheet](docs/incident-response-cheat-sheet.md) | Basic IR flow, triage questions, and documentation fields |
+| [SIEM Query Study Plan](docs/siem-query-study-plan.md) | Practice plan for asking useful security questions with logs |
+| [Windows Event ID Reference](docs/windows-event-id-reference.md) | Common Windows security event IDs for authentication review |
+| [Threat Research Template](docs/threat-research-template.md) | Structure for concise threat research notes |
+| [SOC Lab Template](docs/soc-lab-template.md) | Format for hands-on SOC investigation labs |
+| [Vulnerability Management Checklist](docs/vulnerability-management-checklist.md) | Steps for identifying, prioritizing, remediating, and verifying vulnerabilities |
+| [Access Control Review Checklist](docs/access-control-review-checklist.md) | Account, permission, authentication, and documentation review checklist |
+| [Network Security Review Notes](docs/network-security-review.md) | Questions and evidence to review network security posture |
+| [Cloud Security Basics](docs/cloud-security-basics.md) | Beginner cloud security review areas and questions |
+| [Python Security Automation Ideas](docs/python-security-automation-ideas.md) | Beginner automation ideas for log and security data review |
+| [Monthly Maintenance Plan](docs/monthly-maintenance-plan.md) | Recurring review plan for keeping study notes current |
+| [Contribution Guidelines](docs/contribution-guidelines.md) | Guidelines for improving the study material cleanly |
 
 ## What These Notes Are Designed For
 
